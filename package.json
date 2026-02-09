@@ -1,6 +1,6 @@
 {
-  "name": "@freedombase/message-box",
-  "version": "1.1.0-rc.3",
+  "name": "message-box",
+  "version": "1.1.0",
   "description": "A package for defining and getting validation error messages, with support for Meteor Tracker reactivity",
   "author": "Eric Dobbertin <aldeed@gmail.com>",
   "license": "MIT",
